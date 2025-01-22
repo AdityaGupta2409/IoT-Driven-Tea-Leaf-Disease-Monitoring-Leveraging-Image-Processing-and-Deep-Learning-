@@ -1,2 +1,7 @@
 # IoT-Driven-Tea-Leaf-Disease-Monitoring-Leveraging-Image-Processing-and-Deep-Learning-
-The repository contains two deep learning models: CNN and Vision Transformer, which are trained for detecting healthy and disease tea leaf. The datasets used for training the model are collected from Kaggle.
+The dataset "Tea Leaf Disease Clasification" used for the tea leaf disease monitoring project can be downloaded from the link below:
+
+https://www.kaggle.com/datasets/mamun009/tea-leaf-disease-clasification?resource=download
+
+Please make sure to cite the source of the dataset if you use it for any research or projects.
+
